@@ -7,7 +7,7 @@ The objective of this project is to find out the outlines requirements for devel
  Microsoft Fabric,
  Excel,
  MS SQL SERVER
-- ETL: Data cleaning was done by Data flow Gen2 through OLAP robust pipeline in Fabric Environment
+- ETL : Data cleaning was done by Data flow Gen2 through OLAP robust pipeline in Fabric Environment
 - Modelling was done with star schema.
   Tables used :
 ➖ Fact_Rides
@@ -16,15 +16,29 @@ The objective of this project is to find out the outlines requirements for devel
 ➖ Dim_Location
 ➖ Dim_user
 - Created UI Report and enhanced the report by DAX
-  Measures Created
+  
+Measures Created : 
 
-📜 Date_master
-📜 Total Rides
-📜 Total Revenue
-📜 Best performing drivers
-📜Top 10 locations by revenue
-📜Top rating drivers
-📜YOY revenue
-📜top 10 locations by rides
+Date_master
 
+Total Rides
 
+Total Revenue
+ 
+Best performing drivers
+
+Top 10 locations by revenue
+
+Top rating drivers
+
+ YOY revenue
+
+ top 10 locations by rides
+
+## Findings
+- Average ride time is 62 min.
+- 50 % rides are medium distance covered rides.
+- 50 % of the rides fall into the 'far ride time' category.
+- 62 % rides are diesel fuel rides.
+
+ 
