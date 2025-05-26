@@ -41,6 +41,8 @@ Top rating drivers
 - 50 % of the rides fall into the 'far ride time' category.
 - 62 % rides are diesel fuel rides.
 - Average Revenue per ride is 72 rs.
-- 332(10 %) drivers got the highest rating. 
+- 332(10 %) drivers got the highest rating.
+- Most of the rides are happend during office hours. 
+- ![Image](https://github.com/user-attachments/assets/efee534e-1a28-4471-9acc-bc0ddb81d0c0)
 
  
