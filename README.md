@@ -40,5 +40,7 @@ Top rating drivers
 - 50 % rides are medium distance covered rides.
 - 50 % of the rides fall into the 'far ride time' category.
 - 62 % rides are diesel fuel rides.
+- Average Revenue per ride is 72 rs.
+- 332(10 %) drivers got the highest rating. 
 
  
