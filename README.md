@@ -44,5 +44,6 @@ Top rating drivers
 - 332(10 %) drivers got the highest rating.
 - Most of the rides are happend during office hours. 
 - ![Image](https://github.com/user-attachments/assets/efee534e-1a28-4471-9acc-bc0ddb81d0c0)
+- ![Image](https://github.com/user-attachments/assets/5fc798ce-2195-42ed-9d5b-cd468ac32802)
 
  
